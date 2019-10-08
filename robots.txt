@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://faedahhoot.frederikhaaning.dk/sitemap.xml
